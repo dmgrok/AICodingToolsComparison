@@ -53,6 +53,6 @@ An AI-powered coding assistant offered by Amazon Web Services (AWS). It is desig
 1. Supports a wide range of programming languages
 1. Continuously improving through feedback and fine-tuning
    
-#  Research studies on developer productivy
+#  Research studies on AI Coding & Developer Productivity
 1. [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 1. [Unleashing developer productivity with generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai#:~:text=A%20McKinsey%20study%20shows%20that,maximize%20productivity%20and%20minimize%20risks.&text=Technology%20leaders%20aiming%20to%20accelerate,time%20savings%20with%20generative%20AI.)

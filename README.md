@@ -14,7 +14,7 @@ AI-powered coding assistants have gained significant traction in recent years, a
 | Code completion             | x                                                                                                                           | x                                                                                                                                                      | x                                                                                                                                                  | x                                                                                                                              | x                                                                                                                          |
 | Chat                        | x                                                                                                                           | x                                                                                                                                                      | x                                                                                                                                                  |                                                                                                                                | x                                                                                                                          |
 | Assess/Document/Create code | x                                                                                                                           | x                                                                                                                                                      | x                                                                                                                                                  | x                                                                                                                              | x                                                                                                                          |
-| Models                      | GPT4 for chat, GPT 3.5 for autocomplete                                                                                     | Virtually all. OpenAI or local models consumed by API (https://docs.continue.dev/setup/select-provider)                                                | Salesforce CodeGen                                                                                                                                 | Ollama                                                                                                                         |
+| Models                      | GPT4 for chat, GPT 3.5 for autocomplete        | Anthropic Claude                                                                            | Virtually all. OpenAI or local models consumed by API (https://docs.continue.dev/setup/select-provider)                                                | Salesforce CodeGen                                                                                                                                 | Ollama                                                                                                                         |
 |                             |                                                                                                                             |                                                                                                                                                        |                                                                                                                                                    |                                                                                                                                |                                                                                                                            |
 | Availability                | Global                                                                                                                      | Global                                                                                                                                                 | Local                                                                                                                                              | Local                                                                                                                          | Local                                                                                                                      |
 | Hosted regions              | US                                                                                                                          | US                                                                                                                                                     |                                                                                                                                                    |                                                                                                                                |                                                                                                                            |
@@ -25,44 +25,39 @@ AI-powered coding assistants have gained significant traction in recent years, a
 | Community support           | +++                                                                                                                         | +++                                                                                                                                                    | +++                                                                                                                                                | +++                                                                                                                            | ++                                                                                                                         |
 | URL                         | [About GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/about-github-copilot)                               | [What is Amazon Q Developer? - Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)                              | https://github.com/continuedev/continue                                                                                                            | [fauxpilot/fauxpilot: FauxPilot - an open-source alternative to GitHub Copilot server](https://github.com/fauxpilot/fauxpilot) | [srikanth235/privy: An open-source alternative to GitHub copilot that runs locally.](https://github.com/srikanth235/privy) |
 
-
+Let's deep dive on the commercial tools!
 
 ## GitHub Copilot
 GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It is designed to help developers write code more efficiently by providing intelligent code suggestions and completions based on the context of the code being written.
 
 ### Key Features
-1. Code Completion: Copilot suggests code completions as developers type, taking into account the context of the file, project, and comments.
-1. Code Generation: Copilot can generate entire functions, classes, or even complete files based on a provided description or context.
-1. Documentation Generation: Copilot can generate comments and documentation for existing code, improving code readability and maintainability.
-1. Language Support: Copilot supports a wide range of programming languages, including Python, JavaScript, TypeScript, Ruby, Go, and more.
+2. Language Support: [Most current languages](https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/github-language-support)
 ### Pros
 1. Tight integration with GitHub and popular code editors (e.g., Visual Studio Code)
-1. Trained on a vast corpus of open-source code, enabling accurate code suggestions
-1. Supports a wide range of programming languages
-1. Continuously improving through feedback and fine-tuning
+
 ### Cons
 1. Requires a paid subscription for individual developers
-1. Potential for generating insecure or incorrect code
-1. Limited support for complex or domain-specific codebases
+
 
 ## Amazon Q for Developers (ex-CodeWhisperer)
 An AI-powered coding assistant offered by Amazon Web Services (AWS). It is designed to help developers write code faster by providing intelligent code suggestions and completions based on the context of the code being written, similar to GitHub Copilot.
 
 ### Key Features
-1. Code Completion: CodeWhisperer suggests code completions as developers type, taking into account the context of the file, project, and comments.
-1. Code Generation: CodeWhisperer can generate entire functions, classes, or even complete files based on a provided description or context.
-1. Documentation Generation: CodeWhisperer can generate comments and documentation for existing code, improving code readability and maintainability.
-1. Language Support: CodeWhisperer supports a wide range of programming languages, including Python, Java, JavaScript, TypeScript, and more.
+
+1. Language Support: [Most current languages](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-language-ide-support.html)
 ### Pros
 1. Tight integration with AWS services and IDEs like AWS Cloud9
-1. Trained on a diverse corpus of code, including open-source and proprietary codebases
-1. Supports a wide range of programming languages
-1. Continuously improving through feedback and fine-tuning
 ### Cons
 1. Limited integration with non-AWS tools and IDEs
+
+# Common 
+1. Code Completion, Code Generation, Documentation Generation
 1. Potential for generating insecure or incorrect code
 1. Limited support for complex or domain-specific codebases
-
+1. Trained on a vast corpus of open-source code, enabling accurate code suggestions
+1. Supports a wide range of programming languages
+1. Continuously improving through feedback and fine-tuning
+   
 #  Research studies on developer productivy
 1. [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 1. [Unleashing developer productivity with generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai#:~:text=A%20McKinsey%20study%20shows%20that,maximize%20productivity%20and%20minimize%20risks.&text=Technology%20leaders%20aiming%20to%20accelerate,time%20savings%20with%20generative%20AI.)

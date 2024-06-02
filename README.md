@@ -22,9 +22,9 @@ AI-powered coding assistants have gained significant traction in recent years, a
 | IDE's supported             | Visual Studio Code, Visual Studio, Vim, Neovim, the JetBrains suite, CLI    | Visual Studio Code, JetBrains, AWS Toolkit for Visual Studio, CLI      | Visual Studio Code and JetBrains   | Visual Studio Code             | Visual Studio Code         |
 |             |             |        |    ||            |
 | Cost        | Free: 30 day trial<br>Paid: Individual 10 USD/month 100 USD/year<br>          Enterprise 39 USD/month Business 19 USD/month | Free: Limited requests per month<br>Paid: 19 USD/Dev/Month             | Free + pay for model consumption   | Free           | Free       |
-| Demo        | [Demo](https://www.youtube.com/playlist?list=PL0lo9MOBetEHEHi9h0k_lPn0XZdEeYZDS)    | [Amazon Q Developer - Your generative AI-powered assistant for work](https://www.youtube.com/watch?v=_1HbJeoij6g) | | [FauxPilot](https://www.youtube.com/watch?v=Juyl1v5nZK8) |
+| Demo        | [Demo](https://www.youtube.com/playlist?list=PL0lo9MOBetEHEHi9h0k_lPn0XZdEeYZDS)    | [Amazon Q Developer - Your generative AI-powered assistant for work](https://www.youtube.com/watch?v=_1HbJeoij6g) | [Demo](https://www.youtube.com/watch?v=V3Yq6w9QaxI) | [FauxPilot](https://www.youtube.com/watch?v=Juyl1v5nZK8) | [Demo](https://github.com/srikanth235/privy)
 | Community support           | +++         | +++    | +++| +++            | ++         |
-| URL         | [About GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/about-github-copilot)               | [What is Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)              | [link](https://github.com/continuedev/continue)            | [FauxPilot](https://github.com/fauxpilot/fauxpilot) | [Privy](https://github.com/srikanth235/privy) |
+| URL         | [GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/about-github-copilot)               | [What is Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)              | [Continue](https://github.com/continuedev/continue)            | [FauxPilot](https://github.com/fauxpilot/fauxpilot) | [Privy](https://github.com/srikanth235/privy) |
 
 Let's deep dive on the commercial tools!
 

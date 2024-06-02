@@ -29,14 +29,11 @@ AI-powered coding assistants have gained significant traction in recent years, a
 Let's deep dive on the commercial tools!
 
 ## GitHub Copilot
-GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It is designed to help developers write code more efficiently by providing intelligent code suggestions and completions based on the context of the code being written.
+GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It is designed to help developers write code more efficiently by providing intelligent code suggestions and completions based on the context of the code being written. It is one of the most used tools on AI Coding domain.
 
 ### Key Features
 2. Language Support: [Most current languages](https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/github-language-support)
-### Pros
 1. Tight integration with GitHub and popular code editors (e.g., Visual Studio Code)
-
-### Cons
 1. Requires a paid subscription for individual developers
 
 
@@ -46,12 +43,10 @@ An AI-powered coding assistant offered by Amazon Web Services (AWS). It is desig
 ### Key Features
 
 1. Language Support: [Most current languages](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-language-ide-support.html)
-### Pros
 1. Tight integration with AWS services and IDEs like AWS Cloud9
-### Cons
 1. Limited integration with non-AWS tools and IDEs
 
-# Common 
+# Common on AI Coding tools
 1. Code Completion, Code Generation, Documentation Generation
 1. Potential for generating insecure or incorrect code
 1. Limited support for complex or domain-specific codebases

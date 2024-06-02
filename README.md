@@ -10,15 +10,14 @@ AI-powered coding assistants have gained significant traction in recent years, a
 | Opensource  |             |        | x  | x              | x          |
 | Service type| SaaS        | SaaS   | Extension          | Hosted         | Hosted     |
 |             |             |        |    ||            |
-|             |             |        |    ||            |
 | Features    |             |        |    ||            |
 | Code completion             | x           | x      | x  | x              | x          |
 | Chat        | x           | x      | x  || x          |
 | Assess/Document/Create code | x           | x      | x  | x              | x          |
 | Models      | GPT4 for chat, GPT 3.5 for autocomplete        | Anthropic Claude            | Virtually all. OpenAI or local models consumed by API [link](https://docs.continue.dev/setup/select-provider)| Salesforce CodeGen | Ollama         |
-|             |             |        |    ||            |
+|  |   |  |    | | |
 | Availability| Global      | Global | Local              | Local          | Local      |
-| Hosted regions              | US          | US     |    ||            |
+| Hosted regions              | Github US | AWS US |    | | |
 | IDE's supported             | Visual Studio Code, Visual Studio, Vim, Neovim, the JetBrains suite, CLI    | Visual Studio Code, JetBrains, AWS Toolkit for Visual Studio, CLI      | Visual Studio Code and JetBrains   | Visual Studio Code             | Visual Studio Code         |
 |             |             |        |    ||            |
 | Cost        | Free: 30 day trial<br>Paid: Individual 10 USD/month 100 USD/year<br>          Enterprise 39 USD/month Business 19 USD/month | Free: Limited requests per month<br>Paid: 19 USD/Dev/Month             | Free + pay for model consumption   | Free           | Free       |

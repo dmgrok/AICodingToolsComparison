@@ -1,5 +1,5 @@
 
-#Comparing AI Coding Tools
+# Comparing AI Coding Tools
 
 AI-powered coding assistants have gained significant traction in recent years, aiming to enhance developer productivity and accelerate the software development process. In this README, we'll take a closer look at two prominent AI coding tools: GitHub Copilot and AWS CodeWhisperer, and compare their key features and capabilities.
 
@@ -45,10 +45,10 @@ GitHub Copilot is an AI-powered coding assistant developed by GitHub in collabor
 1. Potential for generating insecure or incorrect code
 1. Limited support for complex or domain-specific codebases
 
-Amazon Q for Developers (ex-CodeWhisperer)
+## Amazon Q for Developers (ex-CodeWhisperer)
 An AI-powered coding assistant offered by Amazon Web Services (AWS). It is designed to help developers write code faster by providing intelligent code suggestions and completions based on the context of the code being written, similar to GitHub Copilot.
 
-##Key Features
+### Key Features
 1. Code Completion: CodeWhisperer suggests code completions as developers type, taking into account the context of the file, project, and comments.
 1. Code Generation: CodeWhisperer can generate entire functions, classes, or even complete files based on a provided description or context.
 1. Documentation Generation: CodeWhisperer can generate comments and documentation for existing code, improving code readability and maintainability.
